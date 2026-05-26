@@ -43,13 +43,13 @@ Socket.IO connects to FastAPI server
 User is matched with another available user
 
 ## Screenshot
-<img width="400" height="700" alt="chatapp1" src="https://github.com/user-attachments/assets/3f3a542d-6beb-4f10-a3f1-c8e6fc6da4a0" />
-<img width="400" height="700" alt="chatapp2" src="https://github.com/user-attachments/assets/fd086985-6c9c-4197-a808-e97104407922" />
-<img width="400" height="700" alt="chatapp3" src="https://github.com/user-attachments/assets/b3c28d85-7ced-4624-8405-bde9a112c458" />
-<img width="400" height="700" alt="chatapp4" src="https://github.com/user-attachments/assets/a179124e-adee-42b9-8ad9-cf3bc381a3e6" />
-<img width="400" height="700" alt="chatapp5" src="https://github.com/user-attachments/assets/c4618ef0-0681-4ae9-bbda-25b272ca494a" />
-<img width="400" height="700" alt="chatapp6" src="https://github.com/user-attachments/assets/abdc502f-1fa9-4b68-a0e6-636a8e9e3032" />
-<img width="400" height="700" alt="chatapp7" src="https://github.com/user-attachments/assets/4c8733d8-0865-4477-a08d-1d21966f1e8a" />
+<img width="400" height="600" alt="chatapp1" src="https://github.com/user-attachments/assets/3f3a542d-6beb-4f10-a3f1-c8e6fc6da4a0" />
+<img width="400" height="600" alt="chatapp2" src="https://github.com/user-attachments/assets/fd086985-6c9c-4197-a808-e97104407922" />
+<img width="400" height="600" alt="chatapp3" src="https://github.com/user-attachments/assets/b3c28d85-7ced-4624-8405-bde9a112c458" />
+<img width="400" height="600" alt="chatapp4" src="https://github.com/user-attachments/assets/a179124e-adee-42b9-8ad9-cf3bc381a3e6" />
+<img width="400" height="600" alt="chatapp5" src="https://github.com/user-attachments/assets/c4618ef0-0681-4ae9-bbda-25b272ca494a" />
+<img width="400" height="600" alt="chatapp6" src="https://github.com/user-attachments/assets/abdc502f-1fa9-4b68-a0e6-636a8e9e3032" />
+<img width="400" height="600" alt="chatapp7" src="https://github.com/user-attachments/assets/4c8733d8-0865-4477-a08d-1d21966f1e8a" />
 
 Real-time chat session starts
 Messages are exchanged via WebSockets
